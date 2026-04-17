@@ -2,7 +2,7 @@
 Generated for agent-assisted navigation.
 
 ## Overview
-- Total documentation files: 2651
+- Total documentation files: 2652
 - Total directories: 87
 - Source: `docs/` directory tree
 
@@ -740,8 +740,9 @@ Generated for agent-assisted navigation.
 - user_agent.md
 - where.md
 
-### `docs/reference/query-languages/esql/_snippets/commands/settings/` (4 files)
+### `docs/reference/query-languages/esql/_snippets/commands/settings/` (5 files)
 - approximation.md
+- project_routing.md
 - time_zone.md
 - toc.md
 - unmapped_fields.md

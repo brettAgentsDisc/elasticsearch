@@ -605,6 +605,7 @@ docs/reference/query-languages/esql/_snippets/commands/layout/uri_parts.md
 docs/reference/query-languages/esql/_snippets/commands/layout/user_agent.md
 docs/reference/query-languages/esql/_snippets/commands/layout/where.md
 docs/reference/query-languages/esql/_snippets/commands/settings/approximation.md
+docs/reference/query-languages/esql/_snippets/commands/settings/project_routing.md
 docs/reference/query-languages/esql/_snippets/commands/settings/time_zone.md
 docs/reference/query-languages/esql/_snippets/commands/settings/toc.md
 docs/reference/query-languages/esql/_snippets/commands/settings/unmapped_fields.md
