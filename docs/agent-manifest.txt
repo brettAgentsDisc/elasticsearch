@@ -517,6 +517,10 @@ docs/reference/query-languages/esql/_snippets/commands/examples/inlinestats.csv-
 docs/reference/query-languages/esql/_snippets/commands/examples/inlinestats.csv-spec/max-salary-without-by.md
 docs/reference/query-languages/esql/_snippets/commands/examples/inlinestats.csv-spec/max-salary.md
 docs/reference/query-languages/esql/_snippets/commands/examples/inlinestats.csv-spec/multi-agg-multi-grouping.md
+docs/reference/query-languages/esql/_snippets/commands/examples/k8s-timeseries-promql.csv-spec/cross_series_grouping_on_mapped_label.md
+docs/reference/query-languages/esql/_snippets/commands/examples/k8s-timeseries-promql.csv-spec/not_equals_filter.md
+docs/reference/query-languages/esql/_snippets/commands/examples/k8s-timeseries-promql.csv-spec/post_processing_stats_by_cluster.md
+docs/reference/query-languages/esql/_snippets/commands/examples/k8s-timeseries-promql.csv-spec/promql_start_end_step.md
 docs/reference/query-languages/esql/_snippets/commands/examples/limit.csv-spec/basic.md
 docs/reference/query-languages/esql/_snippets/commands/examples/limit.csv-spec/limitBy.md
 docs/reference/query-languages/esql/_snippets/commands/examples/limit.csv-spec/limitByMultipleGroups.md
@@ -590,6 +594,7 @@ docs/reference/query-languages/esql/_snippets/commands/layout/lookup-join.md
 docs/reference/query-languages/esql/_snippets/commands/layout/metrics-info.md
 docs/reference/query-languages/esql/_snippets/commands/layout/mmr.md
 docs/reference/query-languages/esql/_snippets/commands/layout/mv_expand.md
+docs/reference/query-languages/esql/_snippets/commands/layout/promql.md
 docs/reference/query-languages/esql/_snippets/commands/layout/registered_domain.md
 docs/reference/query-languages/esql/_snippets/commands/layout/rename.md
 docs/reference/query-languages/esql/_snippets/commands/layout/rerank.md
@@ -1800,6 +1805,7 @@ docs/reference/query-languages/esql/commands/metrics-info.md
 docs/reference/query-languages/esql/commands/mmr.md
 docs/reference/query-languages/esql/commands/mv_expand.md
 docs/reference/query-languages/esql/commands/processing-commands.md
+docs/reference/query-languages/esql/commands/promql.md
 docs/reference/query-languages/esql/commands/registered-domain.md
 docs/reference/query-languages/esql/commands/rename.md
 docs/reference/query-languages/esql/commands/rerank.md

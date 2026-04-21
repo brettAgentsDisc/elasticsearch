@@ -2,8 +2,8 @@
 Generated for agent-assisted navigation.
 
 ## Overview
-- Total documentation files: 2652
-- Total directories: 87
+- Total documentation files: 2658
+- Total directories: 88
 - Source: `docs/` directory tree
 
 ## Directory Listing
@@ -623,6 +623,12 @@ Generated for agent-assisted navigation.
 - max-salary.md
 - multi-agg-multi-grouping.md
 
+### `docs/reference/query-languages/esql/_snippets/commands/examples/k8s-timeseries-promql.csv-spec/` (4 files)
+- cross_series_grouping_on_mapped_label.md
+- not_equals_filter.md
+- post_processing_stats_by_cluster.md
+- promql_start_end_step.md
+
 ### `docs/reference/query-languages/esql/_snippets/commands/examples/limit.csv-spec/` (3 files)
 - basic.md
 - limitBy.md
@@ -707,7 +713,7 @@ Generated for agent-assisted navigation.
 ### `docs/reference/query-languages/esql/_snippets/commands/examples/user_agent.csv-spec/` (1 files)
 - basic.md
 
-### `docs/reference/query-languages/esql/_snippets/commands/layout/` (31 files)
+### `docs/reference/query-languages/esql/_snippets/commands/layout/` (32 files)
 - change_point.md
 - completion.md
 - dissect.md
@@ -725,6 +731,7 @@ Generated for agent-assisted navigation.
 - metrics-info.md
 - mmr.md
 - mv_expand.md
+- promql.md
 - registered_domain.md
 - rename.md
 - rerank.md
@@ -1949,7 +1956,7 @@ Generated for agent-assisted navigation.
 - rlike.md
 - sub.md
 
-### `docs/reference/query-languages/esql/commands/` (34 files)
+### `docs/reference/query-languages/esql/commands/` (35 files)
 - change-point.md
 - completion.md
 - directives.md
@@ -1969,6 +1976,7 @@ Generated for agent-assisted navigation.
 - mmr.md
 - mv_expand.md
 - processing-commands.md
+- promql.md
 - registered-domain.md
 - rename.md
 - rerank.md
