@@ -2,7 +2,7 @@
 Generated for agent-assisted navigation.
 
 ## Overview
-- Total documentation files: 2687
+- Total documentation files: 2699
 - Total directories: 88
 - Source: `docs/` directory tree
 
@@ -769,7 +769,7 @@ Generated for agent-assisted navigation.
 - percentile.md
 - values.md
 
-### `docs/reference/query-languages/esql/_snippets/functions/description/` (218 files)
+### `docs/reference/query-languages/esql/_snippets/functions/description/` (220 files)
 - abs.md
 - absent.md
 - absent_over_time.md
@@ -809,6 +809,7 @@ Generated for agent-assisted navigation.
 - date_format.md
 - date_parse.md
 - date_trunc.md
+- date_unit_count.md
 - day_name.md
 - decay.md
 - delta.md
@@ -966,6 +967,7 @@ Generated for agent-assisted navigation.
 - to_radians.md
 - to_string.md
 - to_tdigest.md
+- to_text.md
 - to_timeduration.md
 - to_unsigned_long.md
 - to_upper.md
@@ -989,7 +991,7 @@ Generated for agent-assisted navigation.
 - variance_over_time.md
 - weighted_avg.md
 
-### `docs/reference/query-languages/esql/_snippets/functions/examples/` (218 files)
+### `docs/reference/query-languages/esql/_snippets/functions/examples/` (220 files)
 - abs.md
 - absent.md
 - absent_over_time.md
@@ -1029,6 +1031,7 @@ Generated for agent-assisted navigation.
 - date_format.md
 - date_parse.md
 - date_trunc.md
+- date_unit_count.md
 - day_name.md
 - decay.md
 - delta.md
@@ -1186,6 +1189,7 @@ Generated for agent-assisted navigation.
 - to_radians.md
 - to_string.md
 - to_tdigest.md
+- to_text.md
 - to_timeduration.md
 - to_unsigned_long.md
 - to_upper.md
@@ -1223,7 +1227,7 @@ Generated for agent-assisted navigation.
 - to_ip.md
 - top_snippets.md
 
-### `docs/reference/query-languages/esql/_snippets/functions/layout/` (218 files)
+### `docs/reference/query-languages/esql/_snippets/functions/layout/` (220 files)
 - abs.md
 - absent.md
 - absent_over_time.md
@@ -1263,6 +1267,7 @@ Generated for agent-assisted navigation.
 - date_format.md
 - date_parse.md
 - date_trunc.md
+- date_unit_count.md
 - day_name.md
 - decay.md
 - delta.md
@@ -1420,6 +1425,7 @@ Generated for agent-assisted navigation.
 - to_radians.md
 - to_string.md
 - to_tdigest.md
+- to_text.md
 - to_timeduration.md
 - to_unsigned_long.md
 - to_upper.md
@@ -1443,7 +1449,7 @@ Generated for agent-assisted navigation.
 - variance_over_time.md
 - weighted_avg.md
 
-### `docs/reference/query-languages/esql/_snippets/functions/parameters/` (218 files)
+### `docs/reference/query-languages/esql/_snippets/functions/parameters/` (220 files)
 - abs.md
 - absent.md
 - absent_over_time.md
@@ -1483,6 +1489,7 @@ Generated for agent-assisted navigation.
 - date_format.md
 - date_parse.md
 - date_trunc.md
+- date_unit_count.md
 - day_name.md
 - decay.md
 - delta.md
@@ -1640,6 +1647,7 @@ Generated for agent-assisted navigation.
 - to_radians.md
 - to_string.md
 - to_tdigest.md
+- to_text.md
 - to_timeduration.md
 - to_unsigned_long.md
 - to_upper.md
@@ -1663,7 +1671,7 @@ Generated for agent-assisted navigation.
 - variance_over_time.md
 - weighted_avg.md
 
-### `docs/reference/query-languages/esql/_snippets/functions/types/` (214 files)
+### `docs/reference/query-languages/esql/_snippets/functions/types/` (216 files)
 - abs.md
 - absent.md
 - absent_over_time.md
@@ -1703,6 +1711,7 @@ Generated for agent-assisted navigation.
 - date_format.md
 - date_parse.md
 - date_trunc.md
+- date_unit_count.md
 - day_name.md
 - decay.md
 - delta.md
@@ -1856,6 +1865,7 @@ Generated for agent-assisted navigation.
 - to_radians.md
 - to_string.md
 - to_tdigest.md
+- to_text.md
 - to_timeduration.md
 - to_unsigned_long.md
 - to_upper.md
@@ -2270,7 +2280,7 @@ Generated for agent-assisted navigation.
 - to_unsigned_long.md
 - to_version.md
 
-### `docs/reference/query-languages/esql/kibana/docs/functions/` (218 files)
+### `docs/reference/query-languages/esql/kibana/docs/functions/` (220 files)
 - abs.md
 - absent.md
 - absent_over_time.md
@@ -2310,6 +2320,7 @@ Generated for agent-assisted navigation.
 - date_format.md
 - date_parse.md
 - date_trunc.md
+- date_unit_count.md
 - day_name.md
 - decay.md
 - delta.md
@@ -2467,6 +2478,7 @@ Generated for agent-assisted navigation.
 - to_radians.md
 - to_string.md
 - to_tdigest.md
+- to_text.md
 - to_timeduration.md
 - to_unsigned_long.md
 - to_upper.md

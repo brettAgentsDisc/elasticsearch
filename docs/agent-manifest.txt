@@ -662,6 +662,7 @@ docs/reference/query-languages/esql/_snippets/functions/description/date_extract
 docs/reference/query-languages/esql/_snippets/functions/description/date_format.md
 docs/reference/query-languages/esql/_snippets/functions/description/date_parse.md
 docs/reference/query-languages/esql/_snippets/functions/description/date_trunc.md
+docs/reference/query-languages/esql/_snippets/functions/description/date_unit_count.md
 docs/reference/query-languages/esql/_snippets/functions/description/day_name.md
 docs/reference/query-languages/esql/_snippets/functions/description/decay.md
 docs/reference/query-languages/esql/_snippets/functions/description/delta.md
@@ -819,6 +820,7 @@ docs/reference/query-languages/esql/_snippets/functions/description/to_lower.md
 docs/reference/query-languages/esql/_snippets/functions/description/to_radians.md
 docs/reference/query-languages/esql/_snippets/functions/description/to_string.md
 docs/reference/query-languages/esql/_snippets/functions/description/to_tdigest.md
+docs/reference/query-languages/esql/_snippets/functions/description/to_text.md
 docs/reference/query-languages/esql/_snippets/functions/description/to_timeduration.md
 docs/reference/query-languages/esql/_snippets/functions/description/to_unsigned_long.md
 docs/reference/query-languages/esql/_snippets/functions/description/to_upper.md
@@ -880,6 +882,7 @@ docs/reference/query-languages/esql/_snippets/functions/examples/date_extract.md
 docs/reference/query-languages/esql/_snippets/functions/examples/date_format.md
 docs/reference/query-languages/esql/_snippets/functions/examples/date_parse.md
 docs/reference/query-languages/esql/_snippets/functions/examples/date_trunc.md
+docs/reference/query-languages/esql/_snippets/functions/examples/date_unit_count.md
 docs/reference/query-languages/esql/_snippets/functions/examples/day_name.md
 docs/reference/query-languages/esql/_snippets/functions/examples/decay.md
 docs/reference/query-languages/esql/_snippets/functions/examples/delta.md
@@ -1037,6 +1040,7 @@ docs/reference/query-languages/esql/_snippets/functions/examples/to_lower.md
 docs/reference/query-languages/esql/_snippets/functions/examples/to_radians.md
 docs/reference/query-languages/esql/_snippets/functions/examples/to_string.md
 docs/reference/query-languages/esql/_snippets/functions/examples/to_tdigest.md
+docs/reference/query-languages/esql/_snippets/functions/examples/to_text.md
 docs/reference/query-languages/esql/_snippets/functions/examples/to_timeduration.md
 docs/reference/query-languages/esql/_snippets/functions/examples/to_unsigned_long.md
 docs/reference/query-languages/esql/_snippets/functions/examples/to_upper.md
@@ -1110,6 +1114,7 @@ docs/reference/query-languages/esql/_snippets/functions/layout/date_extract.md
 docs/reference/query-languages/esql/_snippets/functions/layout/date_format.md
 docs/reference/query-languages/esql/_snippets/functions/layout/date_parse.md
 docs/reference/query-languages/esql/_snippets/functions/layout/date_trunc.md
+docs/reference/query-languages/esql/_snippets/functions/layout/date_unit_count.md
 docs/reference/query-languages/esql/_snippets/functions/layout/day_name.md
 docs/reference/query-languages/esql/_snippets/functions/layout/decay.md
 docs/reference/query-languages/esql/_snippets/functions/layout/delta.md
@@ -1267,6 +1272,7 @@ docs/reference/query-languages/esql/_snippets/functions/layout/to_lower.md
 docs/reference/query-languages/esql/_snippets/functions/layout/to_radians.md
 docs/reference/query-languages/esql/_snippets/functions/layout/to_string.md
 docs/reference/query-languages/esql/_snippets/functions/layout/to_tdigest.md
+docs/reference/query-languages/esql/_snippets/functions/layout/to_text.md
 docs/reference/query-languages/esql/_snippets/functions/layout/to_timeduration.md
 docs/reference/query-languages/esql/_snippets/functions/layout/to_unsigned_long.md
 docs/reference/query-languages/esql/_snippets/functions/layout/to_upper.md
@@ -1328,6 +1334,7 @@ docs/reference/query-languages/esql/_snippets/functions/parameters/date_extract.
 docs/reference/query-languages/esql/_snippets/functions/parameters/date_format.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/date_parse.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/date_trunc.md
+docs/reference/query-languages/esql/_snippets/functions/parameters/date_unit_count.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/day_name.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/decay.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/delta.md
@@ -1485,6 +1492,7 @@ docs/reference/query-languages/esql/_snippets/functions/parameters/to_lower.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/to_radians.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/to_string.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/to_tdigest.md
+docs/reference/query-languages/esql/_snippets/functions/parameters/to_text.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/to_timeduration.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/to_unsigned_long.md
 docs/reference/query-languages/esql/_snippets/functions/parameters/to_upper.md
@@ -1546,6 +1554,7 @@ docs/reference/query-languages/esql/_snippets/functions/types/date_extract.md
 docs/reference/query-languages/esql/_snippets/functions/types/date_format.md
 docs/reference/query-languages/esql/_snippets/functions/types/date_parse.md
 docs/reference/query-languages/esql/_snippets/functions/types/date_trunc.md
+docs/reference/query-languages/esql/_snippets/functions/types/date_unit_count.md
 docs/reference/query-languages/esql/_snippets/functions/types/day_name.md
 docs/reference/query-languages/esql/_snippets/functions/types/decay.md
 docs/reference/query-languages/esql/_snippets/functions/types/delta.md
@@ -1699,6 +1708,7 @@ docs/reference/query-languages/esql/_snippets/functions/types/to_lower.md
 docs/reference/query-languages/esql/_snippets/functions/types/to_radians.md
 docs/reference/query-languages/esql/_snippets/functions/types/to_string.md
 docs/reference/query-languages/esql/_snippets/functions/types/to_tdigest.md
+docs/reference/query-languages/esql/_snippets/functions/types/to_text.md
 docs/reference/query-languages/esql/_snippets/functions/types/to_timeduration.md
 docs/reference/query-languages/esql/_snippets/functions/types/to_unsigned_long.md
 docs/reference/query-languages/esql/_snippets/functions/types/to_upper.md
@@ -2136,6 +2146,7 @@ docs/reference/query-languages/esql/kibana/docs/functions/date_extract.md
 docs/reference/query-languages/esql/kibana/docs/functions/date_format.md
 docs/reference/query-languages/esql/kibana/docs/functions/date_parse.md
 docs/reference/query-languages/esql/kibana/docs/functions/date_trunc.md
+docs/reference/query-languages/esql/kibana/docs/functions/date_unit_count.md
 docs/reference/query-languages/esql/kibana/docs/functions/day_name.md
 docs/reference/query-languages/esql/kibana/docs/functions/decay.md
 docs/reference/query-languages/esql/kibana/docs/functions/delta.md
@@ -2293,6 +2304,7 @@ docs/reference/query-languages/esql/kibana/docs/functions/to_lower.md
 docs/reference/query-languages/esql/kibana/docs/functions/to_radians.md
 docs/reference/query-languages/esql/kibana/docs/functions/to_string.md
 docs/reference/query-languages/esql/kibana/docs/functions/to_tdigest.md
+docs/reference/query-languages/esql/kibana/docs/functions/to_text.md
 docs/reference/query-languages/esql/kibana/docs/functions/to_timeduration.md
 docs/reference/query-languages/esql/kibana/docs/functions/to_unsigned_long.md
 docs/reference/query-languages/esql/kibana/docs/functions/to_upper.md
